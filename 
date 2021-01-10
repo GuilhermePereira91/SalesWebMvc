@@ -1,0 +1,24 @@
+[33m8e4e88d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Preparando a navegação de telas de pesquisa de vendas
+[33mc3207d2[m Tratamento de excecao para delete (integridade referencial)
+[33m2a1ece3[m Operações assíncronas usando Task (async e await)
+[33m4cdbab7[m Validacao
+[33m3a0addc[m Localizacao e formatacao de numeros e datas
+[33m9ac22c9[m Retornando página de erro personalizada
+[33m8ca8ade[m Editar vendedor e excecoes de servicos personalizadas
+[33mfbaf764[m Tela de detalhes e eager loading
+[33mf504cd4[m Deletar Vendedor
+[33m45d1a99[m SellerFormViewModel e componente select
+[33m0d7260d[m Chave estrangeira não nula (integridade referencial)
+[33m3b923f4[m Tela simples de cadastro
+[33md22f463[m SellerService e FindAll síncrono
+[33m332c3ca[m SellersController
+[33mbc27340[m Seeding Service
+[33m7ba8e24[m Outras entidades e segunda migration
+[33mb3f7b85[m Mudando o tema do Bootstrap
+[33md1fb0fa[m Adaptação para MySQL e primeira migration
+[33m349e2f8[m CRUD Scaffolding
+[33m133f403[m Deletando controller e view
+[33m0aeb2a1[m Primeiro teste MVC: Department
+[33m3a47929[m Primeiro controller e testes nas páginas Razor
+[33mc258b13[m Projeto Criado
+[33m59fc9ff[m Initial commit
